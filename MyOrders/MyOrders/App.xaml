@@ -6,13 +6,14 @@
 	<Application.Resources>
         <ResourceDictionary>
             <!--General Colors-->
-            <Color x:Key="MainColor">#ff3b77</Color>
+            <Color x:Key="MainColor">#99C8F2</Color>
             <Color x:Key="FontColor">#52656b</Color>
             <Color x:Key="AccentColor1">#cdff00</Color>
             <Color x:Key="AccentColor2">#b8b89f</Color>
             <Color x:Key="BackgroundColor">#f9f9f9</Color>
+            <Color x:Key="ButtonColor">#52656b</Color>
             <!--Menu Colors-->
-            <Color x:Key="MenuColor">#52656b</Color>
+            <Color x:Key="MenuColor">#99C8F2</Color> 
             <Color x:Key="MenuFontColor">#ffffff</Color>
             
             <!--Fonts-->
@@ -32,7 +33,7 @@
                 <Setter Property="HeightRequest"
                 Value="40"></Setter>
                 <Setter Property="BackgroundColor"
-                Value="{StaticResource MainColor}"></Setter>
+                Value="{StaticResource ButtonColor}"></Setter>
                 <Setter Property="TextColor"
                 Value="White"></Setter>
             </Style>

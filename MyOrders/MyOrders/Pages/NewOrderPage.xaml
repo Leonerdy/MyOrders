@@ -19,19 +19,24 @@
              Text="{Binding Client, Mode=TwoWay}"
              BackgroundColor="White"></Entry>
             <Label TextColor="{StaticResource FontColor}" 
-             Text="Descrição"></Label>
+             Text="Telefone"></Label>
+            <Entry TextColor="{StaticResource FontColor}"
+             Text="{Binding Telefone, Mode=TwoWay}"
+             BackgroundColor="White"></Entry>
+            <Label TextColor="{StaticResource FontColor}" 
+             Text="Descrição do problema"></Label>
             <Editor TextColor="{StaticResource FontColor}"
               HeightRequest="100"
               Text="{Binding Description, Mode=TwoWay}"
               BackgroundColor="White"></Editor>
             <Label TextColor="{StaticResource FontColor}"
-             Text="Datos de envío"></Label>
+             Text="Endereço e número"></Label>
             <Editor TextColor="{StaticResource FontColor}"
               Text="{Binding DeliveryInformation, Mode=TwoWay}"
               HeightRequest="100"
               BackgroundColor="White"></Editor>
             <Label TextColor="{StaticResource FontColor}" 
-             Text="Fecha Entrega"></Label>
+             Text="Data do Pedido"></Label>
             <DatePicker
         BackgroundColor="White"
         Date="{Binding DeliveryDate, Mode=TwoWay}">

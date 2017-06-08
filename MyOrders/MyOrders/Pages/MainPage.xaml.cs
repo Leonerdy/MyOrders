@@ -15,6 +15,9 @@ namespace MyOrders.Pages
         public MainPage()
         {
             InitializeComponent();
+
+            
+
         }
     }
 }

@@ -5,11 +5,31 @@
              BackgroundColor="{StaticResource BackgroundColor}"
              Title="SpeedService Refrigeração"
              BindingContext="{Binding Main, Source={StaticResource Locator}}">
-    <ListView
-    ItemTemplate="{StaticResource OrderItemTemplate}"
-    ItemsSource="{Binding Orders}"
-    HasUnevenRows="True">
-    </ListView>
+    <StackLayout Padding="20,40,0,30">
+        <Label  Text="Serviços prestados"
+                Font="bold,30"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"></Label>
+        <Label Text="Conserto de Ar-condicionado"
+               Font="25"
+             ></Label>
+        <Label Text="Manutenção de Ar-condicionado"
+               Font="25"
+             ></Label>
+        <Label Text="Limpeza de Ar-condicionado"
+               Font="25"
+             ></Label>
+
+        <Label Text="Peça seu serviço"
+               Font="20"></Label>
+
+        
+        <Button Command="{Binding GoToCommand}" CommandParameter="NewOrderPage"
+                Text="Serviço!"></Button>
+    </StackLayout>
+    
+    
+    
     <ContentPage.ToolbarItems>
         <ToolbarItem Icon="ic_action_add.png" Command="{Binding GoToCommand}" CommandParameter="NewOrderPage">
         </ToolbarItem>

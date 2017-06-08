@@ -12,11 +12,14 @@ namespace MyOrders.ViewModels
     {
         NavigationService navigationService;
         ApiService apiService;
+        readonly AzureService azureService;
 
         public MainViewModel()
         {
             navigationService = new NavigationService();
             apiService = new ApiService();
+            azureService = new AzureService();
+
 
             Orders = new ObservableCollection<OrderViewModel>();
 
@@ -57,6 +60,8 @@ namespace MyOrders.ViewModels
 
         private async void Start()
         {
+            var user = await azureService.LoginAsync();
+            
             var list = await apiService.GetAllOrders();
             Orders.Clear();
             foreach (var item in list)
@@ -78,28 +83,28 @@ namespace MyOrders.ViewModels
 
             Menu.Add(new MenuItemViewModel()
             {
-                Icon = "ic_action_add",
+                Icon = "ic_action_orders",
                 Title = "Pedidos",
                 PageName = "MainPage"
             });
 
             Menu.Add(new MenuItemViewModel()
             {
-                Icon = "ic_action_add",
-                Title = "Alarm",
+                Icon = "ic_action_alarm",
+                Title = "Alarme",
                 PageName = "AlarmsPage"
             });
 
             Menu.Add(new MenuItemViewModel()
             {
-                Icon = "ic_action_add",
+                Icon = "ic_action_clients",
                 Title = "Clientes",
                 PageName = "ClientsPage"
             });
             Menu.Add(new MenuItemViewModel()
             {
-                Icon = "ic_action_add",
-                Title = "Settings",
+                Icon = "ic_action_settings",
+                Title = "Configurações",
                 PageName = "Settings"
             });
         }

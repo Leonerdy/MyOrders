@@ -1,0 +1,79 @@
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll.config
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.pdb
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Newtonsoft.Json.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Newtonsoft.Json.xml
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.xml
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.csproj.App.config
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.App.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.MasterPage.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.MenuPage.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.MainPage.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.NewOrderPage.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.Settings.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.AlarmsPage.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.ClientsPage.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.WelcomePage.xaml.g.cs
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.dll
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.pdb
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.dll.mdb
+C:\Users\StratoS\Documents\Visual Studio 2015\Projects\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll.mdb
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll.config
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\MyOrders.pdb
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Newtonsoft.Json.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Newtonsoft.Json.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.csproj.App.config
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.App.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.MasterPage.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.MenuPage.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.MainPage.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.NewOrderPage.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.Settings.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.AlarmsPage.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.ClientsPage.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.Pages.WelcomePage.xaml.g.cs
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.dll
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.pdb
+C:\Users\StratoS\Source\Repos\MyOrders\MyOrders\MyOrders\obj\Debug\MyOrders.csprojResolveAssemblyReference.cache

@@ -18,7 +18,7 @@
             HeightRequest="40"
             BorderRadius="20"
             BackgroundColor="White"
-            TextColor="{StaticResource MainColor}"
-            Text="Iniciar"></Button>
+            TextColor="{StaticResource ButtonColor}"
+            Text="Logar com facebook"></Button>
     </StackLayout>
 </ContentPage>
